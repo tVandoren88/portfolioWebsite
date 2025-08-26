@@ -32,8 +32,8 @@ const projects = [
       </>
     ),
     tech: ["React", "TypeScript", "Supabase", "Electron", "MUI"],
-    github: "https://github.com/yourusername/inventory-saas",
-    demo: "https://swiftwebinnov.com/inventory-demo",
+    github: "https://github.com/tVandoren88/inventoryManagementProject",
+    demo: "https://inventoryproject.swiftwebinnov.com/",
   },
   {
     title: "Personal Portfolio",
@@ -45,7 +45,7 @@ const projects = [
       </>
     ),
     tech: ["React", "Vite", "MUI", "Tailwind"],
-    github: "https://github.com/yourusername/portfolio",
+    github: "https://github.com/tVandoren88/portfolioWebsite",
     demo: "https://trevorvandoren.swiftwebinnov.com",
   },
 ];
