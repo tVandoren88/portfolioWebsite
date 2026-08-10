@@ -13,7 +13,7 @@ export function Hero() {
       <p className="intro">
         I&apos;m Trevor Van Doren - a full-stack and Python engineer who builds durable products,
         developer tooling, and delivery systems. I pair hands-on architecture with the leadership
-        needed to help teams ship.
+        needed to help teams ship production ready products.
       </p>
       <div className="actions">
         <a className="button primary" href="#work">
