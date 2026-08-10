@@ -60,7 +60,7 @@ a {
 .eyebrow,
 .kicker {
   font:
-    500 11px 'DM Mono',
+    500 12px 'DM Mono',
     monospace;
   letter-spacing: 0.12em;
   color: var(--orange);
@@ -314,12 +314,12 @@ h3 {
   margin-top: 10px;
 }
 .demo-logins-title {
-  font: 10px 'DM Mono';
+  font: 11px 'DM Mono';
   color: var(--orange);
   text-transform: uppercase;
 }
 .demo-logins p {
-  font: 10px/1.55 'DM Mono';
+  font: 11px/1.6 'DM Mono';
   color: var(--muted);
   margin: 5px 0;
 }
