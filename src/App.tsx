@@ -12,8 +12,8 @@ function App() {
       <Header />
       <Hero />
       <section className="statement">
-        <p>&ldquo;The most useful systems make complex work feel inevitable.&rdquo;</p>
-        <div>React &middot; Django &middot; Python &middot; REST APIs &middot; CI/CD</div>
+        <p>&ldquo;Reliable systems make the right work feel routine.&rdquo;</p>
+        <div>Automation &middot; Observability &middot; CI/CD &middot; Incident response &middot; Python</div>
       </section>
       <ExperienceSummary />
       <Capabilities />

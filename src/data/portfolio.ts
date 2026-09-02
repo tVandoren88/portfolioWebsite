@@ -34,7 +34,7 @@ export const projects: readonly Project[] = [
     name: 'Portfolio HQ',
     label: 'You are here',
     description:
-      'The high-level view: technical breadth, leadership, selected work, and ways to connect.',
+      'A high-level view of automation, reliability engineering, operational leadership, and selected work.',
     status: 'Live',
     href: '#top',
   },
@@ -49,13 +49,13 @@ export const projects: readonly Project[] = [
   },
   {
     subdomain: 'trackingapp',
-    name: 'Tracking App',
-    label: 'Open Tracking App',
+    name: 'Automation Lab',
+    label: 'Open Operations Demo',
     description:
-      'A full-stack application that demonstrates practical product workflows, API design, and role-based access.',
+      'An operations workflow demo showing how automation, service integrations, and clear handoffs reduce manual work.',
     status: 'Live project',
     href: LINKS.trackingApp,
-    stack: ['React', 'Python', 'Django', 'PostgreSQL'],
+    stack: ['Python', 'CI/CD', 'Service APIs', 'PostgreSQL'],
     demoAccounts: [
       { role: 'Admin', email: 'admin@parcelscout.local', password: 'demo123' },
       {
@@ -71,26 +71,26 @@ export const projects: readonly Project[] = [
 export const capabilities: readonly Capability[] = [
   {
     number: '01',
-    title: 'Full-stack craft',
+    title: 'Operational automation',
     description:
-      'Polished React interfaces backed by thoughtful Django, Flask, and PostgreSQL systems.',
+      'Automating repetitive delivery and support work with Python, CI/CD, and pragmatic integrations.',
   },
   {
     number: '02',
-    title: 'Systems & APIs',
-    description: 'Python libraries, REST integrations, SDKs, and automation that connect the work.',
+    title: 'Reliable systems',
+    description:
+      'Designing observable, maintainable services with clear failure modes and dependable operating practices.',
   },
   {
     number: '03',
-    title: 'Technical leadership',
+    title: 'SRE leadership',
     description:
-      'Leading engineers, mentoring teammates, and interviewing candidates with high standards and empathy.',
+      'Strengthening incident response, documentation, delivery habits, and the teams responsible for production.',
   },
 ];
 
 export const stats = [
-  { value: '10+', label: 'years building software' },
+  { value: '10+', label: 'years improving production systems' },
   { value: '1,000+', label: 'customers supported' },
-  { value: '10+', label: 'production apps delivered' },
-  { value: '500+', label: 'automation scripts: Jenkins, Python, GitHub' },
+  { value: '500+', label: 'automation workflows across Jenkins, Python, and GitHub' },
 ] as const;

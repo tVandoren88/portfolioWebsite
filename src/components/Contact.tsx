@@ -6,13 +6,13 @@ export function Contact() {
     <section id="contact" className="contact">
       <span className="kicker">04 / LET&apos;S TALK</span>
       <h2>
-        Building something
+        Making production
         <br />
-        <em>that matters?</em>
+        <em>more reliable?</em>
       </h2>
       <p>
-        I&apos;m open to senior full-stack and Python engineering conversations, especially where
-        strong systems and strong teams meet.
+        I&apos;m open to automation and SRE conversations, especially where production reliability,
+        delivery systems, and strong engineering habits need to move together.
       </p>
       <ExternalLink className="button light" href={LINKS.linkedin}>
         Message on LinkedIn <b>&#8599;</b>

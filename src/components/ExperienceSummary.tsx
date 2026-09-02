@@ -8,14 +8,14 @@ export function ExperienceSummary() {
         <div>
           <span className="kicker">01 / EXPERIENCE</span>
           <h2>
-            Broad experience.
+            Operational clarity.
             <br />
-            Useful from day one.
+            Measurable impact.
           </h2>
         </div>
         <p>
-          I bring the range to see the whole system and the practical judgment to improve the part
-          that matters most.
+          I look across delivery, runtime behavior, and team workflows to find the operational work
+          worth eliminating or making more reliable.
         </p>
       </div>
 
@@ -23,22 +23,21 @@ export function ExperienceSummary() {
         <div>
           <span className="kicker">WHAT FUTURE TEAMS GET</span>
           <h3>
-            A builder who can move from the customer experience to the delivery pipeline - without
-            losing the business goal.
+            An engineer who makes production systems easier to operate, improve, and trust.
           </h3>
         </div>
         <div className="value-points">
           <p>
-            <b>Ship with confidence.</b> React and API product work backed by Python, Django,
-            testing, and reliable data systems.
+            <b>Automate the repeatable.</b> Delivery workflows, environment tasks, and operational
+            handoffs made faster and less error-prone with Python and CI/CD.
           </p>
           <p>
-            <b>Untangle complexity.</b> Integrations, SDKs, automation, and regulated workflows made
-            clearer, faster, and easier to maintain.
+            <b>Build for recovery.</b> Observability, clear runbooks, and failure-aware integrations
+            that make incidents easier to understand and resolve.
           </p>
           <p>
-            <b>Raise the team.</b> Hands-on technical leadership, mentoring, thoughtful
-            interviewing, and a bias toward better engineering habits.
+            <b>Raise the operating standard.</b> Hands-on leadership that improves documentation,
+            incident habits, and the engineering practices around production.
           </p>
           <ExternalLink className="resume-text-link" href={LINKS.resume}>
             View the complete experience timeline &#8599;

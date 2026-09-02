@@ -6,10 +6,10 @@ export function ProjectDomains() {
     <section id="domains" className="section domains">
       <div className="section-head">
         <div>
-          <span className="kicker">03 / THE DOMAIN MAP</span>
+          <span className="kicker">03 / SELECTED WORK</span>
           <h2>
-            One name.
-            <br />A suite of proof.
+            Automation in
+            <br />practice.
           </h2>
         </div>
       </div>

@@ -4,16 +4,16 @@ import { ExternalLink } from './ExternalLink';
 export function Hero() {
   return (
     <section id="top" className="hero">
-      <div className="eyebrow">Senior full-stack engineer | Dallas, TX</div>
+      <div className="eyebrow">Automation &amp; Site Reliability Engineer | Dallas, TX</div>
       <h1>
-        Software that makes
+        Systems that stay
         <br />
-        <em>teams move.</em>
+        <em>reliable.</em>
       </h1>
       <p className="intro">
-        I&apos;m Trevor Van Doren - a full-stack and Python engineer who builds durable products,
-        developer tooling, and delivery systems. I pair hands-on architecture with the leadership
-        needed to help teams ship production ready products.
+        I&apos;m Trevor Van Doren, an automation and SRE-minded engineer who turns manual operational
+        work into durable systems. I build the tooling, delivery practices, and feedback loops that
+        help teams run production with confidence.
       </p>
       <div className="actions">
         <a className="button primary" href="#work">
